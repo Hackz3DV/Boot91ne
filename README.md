@@ -10,4 +10,6 @@ Boot91ne, responsive experience that you can't find anywhere else, with support 
 
 Supported Devices
 
+All A7-A8 devices on iOS 9.0.0 - 9.3.6
+
 
